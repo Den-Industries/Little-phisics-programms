@@ -1,7 +1,7 @@
 # Little-fisics-programms
 There are fisics programm, which do some fisics stuff.
 
-There are two fisics programm for fisics. In future there may be other programms.
+There are two fisics programm for fisics. I made it with SFML on c++. In future there may be other programms.
 
 For installation you should just unzip the zip and find an exe, that's all.
 
